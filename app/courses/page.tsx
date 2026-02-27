@@ -114,7 +114,7 @@ const CoursesPage = () => {
       description: 'Comprehensive study of traditional Indian knowledge systems and their contemporary relevance.',
       duration: '5 hours',
       students: 50,
-      price: 1000,
+      price: 500,
       online: true,
   formLink: 'https://docs.google.com/forms/d/e/1FAIpQLSf4erNZJFboHZhB5vYgXWL2lO7f9ppxZgALppu-tU0c6yDlfw/viewform?usp=header',
       // rating: 4.7,
